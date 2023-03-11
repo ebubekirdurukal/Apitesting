@@ -1,0 +1,16 @@
+What is an API?
+
+How do APIs work?
+
+How would you test an API?
+
+What protocols can be tested using API Testing?
+
+What are the most commonly used tools for API testing?
+
+What needs to be verified in API testing?
+
+What are the advantages of API Testing?
+
+
+
